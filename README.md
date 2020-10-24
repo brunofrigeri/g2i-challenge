@@ -2,6 +2,14 @@
 
 G2i Quiz is an Application that was developed for an G2i challenge.
 
+
+## Screenshots
+
+<img width="200" alt="welcome" src="https://user-images.githubusercontent.com/39895418/97093309-2840cf80-1621-11eb-8b04-b432ea1ddb64.png">
+<img width="200" alt="questions" src="https://user-images.githubusercontent.com/39895418/97093312-2bd45680-1621-11eb-9c4a-ea6873706a22.png">
+<img width="200" alt="Screen Shot 2020-10-24 at 17 59 52" src="https://user-images.githubusercontent.com/39895418/97093481-ba95a300-1622-11eb-8aa7-c6bc4dac5c5f.png">
+
+
 ## Methodology
 
 It was used in the project:
